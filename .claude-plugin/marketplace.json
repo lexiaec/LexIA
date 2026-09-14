@@ -1,0 +1,29 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "lexia",
+  "description": "Los asistentes de LexIA para Claude.",
+  "owner": {
+    "name": "LexIA",
+    "url": "https://lexiaec.com"
+  },
+  "plugins": [
+    {
+      "name": "asistente-legal",
+      "source": "./plugins/asistente-legal",
+      "displayName": "LexIA Asistente Legal",
+      "description": "Consulta la ley ecuatoriana y la jurisprudencia contencioso-tributaria con cita comprobable, contra la fuente jurídica de LexIA. Requiere una cuenta de LexIA.",
+      "category": "legal",
+      "keywords": [
+        "ecuador",
+        "tributario",
+        "societario",
+        "contable",
+        "jurisprudencia"
+      ],
+      "author": {
+        "name": "LexIA"
+      },
+      "homepage": "https://lexiaec.com"
+    }
+  ]
+}
