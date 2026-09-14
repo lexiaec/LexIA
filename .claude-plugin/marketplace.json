@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "asistente-legal",
+      "name": "lexia-asistente-legal",
       "source": "./plugins/asistente-legal",
       "displayName": "LexIA Asistente Legal",
       "description": "Consulta la ley ecuatoriana y la jurisprudencia contencioso-tributaria con cita comprobable, contra la fuente jurídica de LexIA. Requiere una cuenta de LexIA.",
