@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "lexia-asistente-legal": {
+    "LexIA": {
       "type": "http",
       "url": "https://lexiaec.com/mcp/asistente-legal"
     }
