@@ -1,8 +1,8 @@
 {
   "name": "lexia-asistente-legal",
   "displayName": "LexIA Asistente Legal",
-  "version": "1.6.0",
-  "description": "Consulta la ley ecuatoriana y la jurisprudencia contencioso-tributaria con cita comprobable, contra la fuente jurídica de LexIA.",
+  "version": "1.7.0",
+  "description": "Consulta la ley ecuatoriana y su jurisprudencia con cita comprobable, contra la fuente jurídica de LexIA.",
   "author": {
     "name": "LexIA"
   },
