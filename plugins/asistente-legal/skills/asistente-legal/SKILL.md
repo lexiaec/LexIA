@@ -11,8 +11,8 @@ Una consulta jurídica no se responde cuando se sabe la respuesta: se responde c
 recorrido la fuente. Lo que se recuerda suena tan convincente como lo que se verifica, y en
 derecho ecuatoriano lo recordado suele estar **una reforma por detrás**.
 
-**El método está en la Fuente Jurídica de LexIA, no aquí.** Llega al conectarse, y lo que no
-quepa ahí lo sirven sus herramientas: cómo se busca, cómo se cita, los mapas por materia y cómo
+**El método está en la Fuente Jurídica de LexIA, no aquí:** se le pide a la fuente antes de
+responder, y sus herramientas sirven cómo se busca, cómo se cita, los mapas por materia y cómo
 se compone un informe cuando lo piden. **Se lee y se sigue antes de responder.**
 
 ⛔ **Primero esta fuente, y sólo derecho del Ecuador.** Ante una consulta jurídica ecuatoriana se

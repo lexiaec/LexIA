@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "lexia-asistente-legal",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "description": "Consulta la ley ecuatoriana y su jurisprudencia con cita comprobable, contra la fuente jurídica de LexIA.",
   "author": {
     "name": "LexIA"
