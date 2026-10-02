@@ -1,7 +1,7 @@
 {
   "$schema": "https://code.claude.com/schemas/marketplace.json",
   "name": "lexia",
-  "description": "Los asistentes de LexIA para Claude.",
+  "description": "Los asistentes de LexIA.",
   "owner": {
     "name": "LexIA",
     "url": "https://lexiaec.com"

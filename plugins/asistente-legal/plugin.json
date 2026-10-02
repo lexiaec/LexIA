@@ -1,0 +1,43 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "lexia-asistente-legal",
+  "version": "1.7.1",
+  "description": "Consulta la ley ecuatoriana y su jurisprudencia con cita comprobable, contra la fuente jurídica de LexIA.",
+  "author": {
+    "name": "LexIA"
+  },
+  "homepage": "https://lexiaec.com",
+  "keywords": [
+    "ecuador",
+    "tributario",
+    "societario",
+    "contable",
+    "jurisprudencia"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "LexIA Asistente Legal",
+        "shortDescription": "Normas y fallos del Ecuador",
+        "longDescription": "Responde consultas jurídicas del Ecuador —tributarias, societarias, contables (NIIF), laborales y municipales— contra el corpus normativo de LexIA y la jurisprudencia contencioso-tributaria, y cita siempre la norma, el artículo y la fecha hasta la que llega el texto. No responde de memoria: busca el artículo, lo lee entero y lo transcribe literal, con sus erratas si las tiene. Cuando el corpus no tiene algo, lo dice y señala dónde mirar, en vez de reconstruirlo. Incluye la jurisprudencia de la Corte Nacional —tributaria, laboral, contencioso administrativa, civil, de familia y penal— y de la Corte Constitucional: buscar causas, leer una resolución, ver el expediente de un juicio. Y las consultas vinculantes del SRI con su PDF y su página. Está pensado para un abogado o un contador, que va a contrastar lo que se le diga.",
+        "developerName": "LEXIA",
+        "category": "Education & Research",
+        "capabilities": [
+          "Read"
+        ],
+        "websiteURL": "https://lexiaec.com",
+        "supportURL": "https://lexiaec.com/ayuda/asistente-legal-chatgpt",
+        "privacyPolicyURL": "https://lexiaec.com/legales/asistente-legal/privacidad",
+        "termsOfServiceURL": "https://lexiaec.com/legales/asistente-legal/terminos",
+        "defaultPrompt": [
+          "¿Desde qué monto de activos una compañía está obligada a auditoría externa en Ecuador?",
+          "¿Cuál es el plazo de prescripción de la acción de cobro del SRI y desde cuándo se cuenta?",
+          "Busca sentencias del Tribunal Contencioso Tributario sobre glosas por gastos no deducibles."
+        ],
+        "brandColor": "#16122E",
+        "composerIcon": "./assets/icono-512.png",
+        "logo": "./assets/icono-512.png"
+      }
+    }
+  }
+}
